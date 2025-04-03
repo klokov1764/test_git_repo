@@ -1,0 +1,3 @@
+  SOUND_RLS2 = 0x05,      // 0x0005 - Sound rls2 files (.smprl, .rls2)
+    SOUND_RLM2 = 0x06,      // 0x0006 - Sound rlm2 files (.pkgrl, .rlm2)
+    SOUND_SP = 0x07,        // 0x0007 - Sound engine v3 files (.sp)
